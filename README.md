@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandana BG</h1>
+<h1 align="center">Hi 👋, I'm Chandana </h1>
 <h3 align="center">An aspiring Software Developer from Karnataka, India</h3>
 
 <br><br>
