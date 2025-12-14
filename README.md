@@ -3,15 +3,18 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **Python, Django, and Web Development**
+- 🌱 Skilled in **Python, Django, SQL and Web Development**
 
-- 👩‍🎓 Pursuing **B.E. in Electronics and Communication Engineering** at Government Engineering College, Kushalnagar (2021–2025)
+- 👩‍🎓**B.E. in Electronics and Communication Engineering** at Government Engineering College, Kushalnagar (2021–2025) with overall CGPA 8.96
 
 - 💻 Some of my projects include:
-  - 🔥 **Fire Fighting Robot** – Designed to operate in hazardous environments using sensors and camera
-  - 🎓 **Student Management System** – A web app to manage student data using Django framework
+  -  🎓 **Online Quiz creator and auto-grading system** - Web-based application developed using Python and Django that allows instructors to create quizzes and automatically evaluate student responses.
+  - 🔥 **Fire Fighting Robot** – Designed to operate in hazardous environments using sensors and camera.
+  - 🎓 **Student Management System** – A web app to manage student data using Django framework.
+  - 🎬 **Netflix-Like Streaming Application** - Web application built using React and TypeScript, enhanced with AI-powered features to deliver a modern, scalable, and personalized user experience.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django, React.js, SQL**
 
 - 📫 Reach me at **chandanac641@gmail.com**
 
