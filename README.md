@@ -10,11 +10,10 @@
 - 💻 Some of my projects include:
   -  🎓 **Online Quiz creator and auto-grading system** - Web-based application developed using Python and Django that allows instructors to create quizzes and automatically evaluate student responses.
   - 🔥 **Fire Fighting Robot** – Designed to operate in hazardous environments using sensors and camera.
-  - 🎓 **Student Management System** – A web app to manage student data using Django framework.
-  - 🎬 **Netflix-Like Streaming Application** - Web application built using React and TypeScript, enhanced with AI-powered features to deliver a modern, scalable, and personalized user experience.
+  - 🎬 **Movie Ticket Booking application** - Movie ticket booking web application built using Django, enabling users to browse movies, select seats, and book tickets with secure authentication and database management.
 
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django, React.js, SQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django, React.js, SQL , MySQL**
 
 - 📫 Reach me at **chandanac641@gmail.com**
 
